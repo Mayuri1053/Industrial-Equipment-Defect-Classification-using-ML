@@ -1,0 +1,1 @@
+# Industrial-Equipment-Defect-Classification-using-ML
